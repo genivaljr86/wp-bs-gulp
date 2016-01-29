@@ -1,0 +1,31 @@
+{
+  "name": "WP-BS-GULP",
+  "version": "1.0.0",
+  "description": "Ambiente de Desenvolvimento de Tema Wordpress com Gulp e Bootstrap SASS",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://morenoalado@github.com/morenoalado/wp-bs-gulp.git"
+  },
+  "keywords": [
+    "wordpress",
+    "gulp",
+    "bower",
+    "bootstrap",
+    "sass"
+  ],
+  "author": "Genival Jr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morenoalado/wp-bs-gulp/issues"
+  },
+  "homepage": "https://github.com/morenoalado/wp-bs-gulp",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-inject": "^3.0.0",
+    "gulp-sass": "^2.1.1"
+  }
+}
